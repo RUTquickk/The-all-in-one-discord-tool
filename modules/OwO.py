@@ -40,10 +40,10 @@ def start():
             time.sleep(cooldown + random.randint(2, 10))
 
     commands = {
-        "pls beg" : 45,
-        "pls hunt" : 40,
-        "pls fish" : 40,
-        "pls daily" : 86400
+        "owo cf 500" : 15,
+        "owo s 1000" : 10,
+        "owo cf 1000" : 10,
+        "owo s 1000" : 86400
     }
 
     print()
